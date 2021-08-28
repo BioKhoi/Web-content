@@ -1,7 +1,7 @@
 ---
-title: How To
+title: About me
 layout: template
-filename: howto
+filename: About-me
 --- 
 
 ## Welcome to GitHub Pages
