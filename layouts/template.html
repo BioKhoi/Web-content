@@ -1,4 +1,7 @@
 <!DOCTYPE html>
+{% for page in site.pages %}
+    <a href={{ page.filename }}>{{ page.title }}</a>
+{% endfor %}
 <html>
 <body>
 <h1>Hello World</h1>
