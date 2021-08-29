@@ -1,6 +1,7 @@
 ---
 title: Contact me
 layout: template
-filename: Contact
+filename: index
 --- 
 
+Hello!
