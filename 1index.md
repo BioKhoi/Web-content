@@ -1,7 +1,7 @@
 ---
 title: About me
 layout: template
-filename: 1.index
+filename: 1index
 --- 
 
 
