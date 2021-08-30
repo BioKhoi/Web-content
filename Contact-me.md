@@ -8,7 +8,8 @@ filename: Contact-me
 <h2> Emails: </h2>
 
 <span style="color:green; font-weight:bold">  nguyenkhoibiotech@gmail.com </span>
-</br></br>
+
+
 <span style="color:green; font-weight:bold">  khoi@microbiomeinsights.com </span>
 
 <h2> Linkedin </h2>
