@@ -14,7 +14,7 @@ Currently, all of my publication can be listed in 3 different research areas:
 
 **2.  Microbiome - Disturbance in Ecology**
 
-**3.  Gut-Brain axis**
+**3.  Microbiome - Gut-Brain axis**
 
 **4. Bacterial Symbiosis - Fermented Food**
 
