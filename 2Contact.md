@@ -29,6 +29,8 @@ Currently, all of my publication can be listed in 3 different research areas:
 ### [1.2 Precision microbiome modulation with discrete diatary fiber structures directs short-chain fatty acid production - Cell Host & Microbe, 2020 ( IF: 21 )](https://www.cell.com/cell-host-microbe/fulltext/S1931-3128(20)30045-7?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS1931312820300457%3Fshowall%3Dtrue) 
 Edward C Deehan, Chen Yang, Maria Elisa Perez-Muñoz, **Nguyen K Nguyen**, Christopher C Cheng, Lucila Triador, Zhengxiao Zhang, Jeffrey A Bakal, Jens Walter
 
+### 1.3 Short-chain fatty acids are key mediators for favorable effects of the Mediterranean diet on intestinal barrier integrity - Manuscript in preparation
+Benjamin Seethaler#, **Nguyen K. Nguyen #**, Maryam Basrai, Marion Kiechle, Jens Walter, Nathalie M. Delzenne, Stephan C. Bischoff
 
 
 
