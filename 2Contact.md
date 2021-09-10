@@ -4,7 +4,7 @@ layout: template
 filename: 2Contact
 --- 
 
-```markdown
+
 Syntax highlighted code block
 
 # Dietary Intervention - human gut microbiome
@@ -21,5 +21,5 @@ Edward C Deehan, Chen Yang, Maria Elisa Perez-Muñoz, **Nguyen K Nguyen**, Chris
 **Bold** and _Italic_ and `Code` text
 
 [Link](url) and ![Image](src)
-```
+
 
