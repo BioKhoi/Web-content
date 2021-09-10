@@ -8,7 +8,9 @@ filename: 2Contact
 Currently, all of my publication can be listed in 3 different research areas: 
 
 I.   Dietary Intervention - Human gut microbiome
+
 II.  Microbiome - Disturbance in Ecology
+
 III. Bacterial Symbiosis - Fermented Food
 
 
