@@ -5,7 +5,7 @@ filename: index
 --- 
 
 
-Hello!
+Thank you for reaching out to me. I love to listen to any idea that you might have. If you don't. no worry, you will soon. 
 
 <h2> Emails: </h2>
 
@@ -14,6 +14,19 @@ Hello!
 
 <span style="color:green; font-weight:bold">  khoi@microbiomeinsights.com </span>
 
-<h2> Linkedin </h2>
-<span style="color:green; font-weight:bold"> https://www.linkedin.com/in/koi-bio-data/ </span>
+
+```markdown
+
+
+
+## Linkedin
+
+[Khoi Nguyen Nguyen's Linkedin profile](https://www.linkedin.com/in/koi-bio-data/) 
+
+```
+
+
+
+
+
 
