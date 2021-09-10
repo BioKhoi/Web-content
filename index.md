@@ -1,5 +1,5 @@
 ---
-title: About me
+title: Contact me
 layout: template
 filename: index
 --- 
