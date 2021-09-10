@@ -4,14 +4,17 @@ layout: template
 filename: 2Contact
 --- 
 
+# TOTAL CITATIONS (205) H-index 4 
+### For the most updated information please visit [Khoi Nguyen Nguyen's google scholar page](https://scholar.google.com.vn/citations?view_op=list_works&hl=vi&hl=vi&user=7Xrudt0AAAAJ)
+
 # RESEARCH AREAS
 Currently, all of my publication can be listed in 3 different research areas: 
 
-I.   Dietary Intervention - Human gut microbiome
+**I.   Dietary Intervention - Human gut microbiome**
 
-II.  Microbiome - Disturbance in Ecology
+**II.  Microbiome - Disturbance in Ecology**
 
-III. Bacterial Symbiosis - Fermented Food
+**III. Bacterial Symbiosis - Fermented Food**
 
 
 # PUBLICATIONS & MANUSCRIPTS IN PREPARATION
