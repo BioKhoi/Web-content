@@ -35,7 +35,10 @@ Misty Riddle, **Nguyen K Nguyen**, [...]
 <br /> <br />
 9.    [Ivermectin - Microbiome](https://biokhoi.github.io/2Contact.md) <br>  _**Manuscript is in preparation.**_
 <br /> <br />
+
 ## Gut-Brain axis
+
+<br /> <br />
 
 
 ## Bacterial Symbiosis - Fermented Food
