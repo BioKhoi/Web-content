@@ -8,18 +8,14 @@ filename: 2Contact
 
 ## Dietary Interventions - Human gut microbiome
 
-1.    [Gut microbiota modulation with long-chain corn bran arabinoxylan in adults with overweight and obesity is linked to an individualized temporal increase in fecal propionate](https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-020-00887-w) - **Microbiome, 2020 ( IF: 14.6 )** 
+1.    [Gut microbiota modulation with long-chain corn bran arabinoxylan in adults with overweight and obesity is linked to an individualized temporal increase in fecal propionate](https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-020-00887-w) - **Microbiome, 2020 ( IF: 14.6 )** <br>
 **Nguyen K Nguyen #**, Edward C Deehan #, [...] Dan Knights, Jeffrey A Bakal, Carla M Prado, Jens Walter.
 <br /> <br /> 
+2.    [Precision microbiome modulation with discrete diatary fiber structures directs short-chain fatty acid production ](https://www.cell.com/cell-host-microbe/fulltext/S1931-3128(20)30045-7?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS1931312820300457%3Fshowall%3Dtrue) - <br>  **Cell Host & Microbe, 2020 ( IF: 21 )** <br>
+Edward C Deehan, Chen Yang, Maria Elisa Perez-Muñoz, **Nguyen K Nguyen**, [...] Jens Walter.
+<br /> <br /> 
 
-2.    [Precision microbiome modulation with discrete diatary fiber structures directs short-chain fatty acid production ](https://www.cell.com/cell-host-microbe/fulltext/S1931-3128(20)30045-7?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS1931312820300457%3Fshowall%3Dtrue) <br> - **Cell Host & Microbe, 2020 ( IF: 21 )** <br>
-     Edward C Deehan, Chen Yang, Maria Elisa Perez-Muñoz, **Nguyen K Nguyen**, [...] Jens Walter.
-
-<br /> 
-
-<br />
-
-1.3   Short-chain fatty acids are key mediators for favorable effects of the Mediterranean diet on intestinal barrier integrity - *Manuscript was submitted.*
+3.   [Short-chain fatty acids are key mediators for favorable effects of the Mediterranean diet on intestinal barrier integrity](https://biokhoi.github.io) - <br> **Manuscript was submitted to Nature Medicine** <br> 
 Benjamin Seethaler#, **Nguyen K. Nguyen #**, [...], Jens Walter, Nathalie M. Delzenne, Stephan C. Bischoff.
 
 <br /> <br />
