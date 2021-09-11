@@ -8,7 +8,7 @@ filename: 2Contact
 ### For the most updated information please visit [Khoi Nguyen Nguyen's google scholar page](https://scholar.google.com.vn/citations?view_op=list_works&hl=vi&hl=vi&user=7Xrudt0AAAAJ)
 
 # II. RESEARCH AREAS
-Currently, all of my publication can be listed in 3 different research areas: 
+Currently, all of my publications and manuscripts can be listed in **FOUR** different research areas: 
 
 **1.  Dietary Intervention - Human gut microbiome**
 
@@ -19,7 +19,7 @@ Currently, all of my publication can be listed in 3 different research areas:
 **4.  Bacterial Symbiosis - Fermented Food**
 
 
-# III. PUBLICATIONS & MANUSCRIPTS
+# III. PUBLICATIONS & MANUSCRIPTS (12 in total) 
 
 ## 1. Dietary Interventions - Human gut microbiome
 
@@ -52,8 +52,9 @@ Edward C. Deehan, Zhengxiao Zhang, **Nguyen K. Nguyen**, [...], Jens Walter.
 #### [2.1  LB736 Wearing N95 masks does not disrupt the facial skin microbiome - *Journal of Investigative Dermatology, 2021 ( IF : 8.55 )* ](https://www.jidonline.org/article/S0022-202X(21)01523-2/fulltext)
   G. Hillebrand, P. Dimitriu, **K. Nguyen**, K. Malik, W. Mohn, and R. Kong.
 
+<br /> <br />
 
-
+#### [2.2 Soil Microbiome  - *Manuscript is in preparation.*
 
 
 
