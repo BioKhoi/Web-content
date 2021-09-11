@@ -12,14 +12,14 @@ Currently, all of my publication can be listed in 3 different research areas:
 
 **1.  Dietary Intervention - Human gut microbiome**
 
-**2.  Microbiome - Disturbance in Ecology**
+**2.  Human Skin, Soil, and Animal Microbiome - Disturbance in Ecology**
 
-**3.  Microbiome - Gut-Brain axis**
+**3.  Gut-Brain axis**
 
-**4. Bacterial Symbiosis - Fermented Food**
+**4.  Bacterial Symbiosis - Fermented Food**
 
 
-# III. PUBLICATIONS & MANUSCRIPTS IN PREPARATION
+# III. PUBLICATIONS & MANUSCRIPTS
 
 ## 1. Dietary Interventions - Human gut microbiome
 
@@ -29,8 +29,22 @@ Currently, all of my publication can be listed in 3 different research areas:
 ### [1.2 Precision microbiome modulation with discrete diatary fiber structures directs short-chain fatty acid production - Cell Host & Microbe, 2020 ( IF: 21 )](https://www.cell.com/cell-host-microbe/fulltext/S1931-3128(20)30045-7?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS1931312820300457%3Fshowall%3Dtrue) 
 Edward C Deehan, Chen Yang, Maria Elisa Perez-Muñoz, **Nguyen K Nguyen**, Christopher C Cheng, Lucila Triador, Zhengxiao Zhang, Jeffrey A Bakal, Jens Walter
 
-### 1.3 Short-chain fatty acids are key mediators for favorable effects of the Mediterranean diet on intestinal barrier integrity - Manuscript in preparation
+### 1.3 Short-chain fatty acids are key mediators for favorable effects of the Mediterranean diet on intestinal barrier integrity - Manuscript was submitted
 Benjamin Seethaler#, **Nguyen K. Nguyen #**, Maryam Basrai, Marion Kiechle, Jens Walter, Nathalie M. Delzenne, Stephan C. Bischoff
+
+### 1.4 Elucidating the role of the gut microbiota in the physiological effects of dietary fiber - Manuscript was submitted
+Edward C. Deehan; Zhengxiao Zhang; Alessandra Riva; Anissa M. Armet; Maria Elisa Perez-Muñoz; **Nguyen K. Nguyen**; Jacqueline A. Krysa; Benjamin Seethaler; Yuan-Yuan Zhao; Janis Cole; Fuyong Li; Bela Hausmann; Andreas Spittler; Julie-Anne Nazare; Nathalie M. Delzenne; Jonathan M. Curtis; Wendy V. Wismer; Spencer D. Proctor; Jeffrey A. Bakal; Stephan C. Bischoff; Dan Knights; Catherine J. Field; David Berry; Carla M. Prado; Jens Walter.
+
+### 1.5 Randomised clinical trial: Gastrointestinal tolerance to high doses of arabinoxylan is dependent on the level of Bifidobacterium longum within the gut microbiota - Manuscript is in preparation
+Edward C. Deehan, Zhengxiao Zhang, **Nguyen K. Nguyen**, Maria Elisa Perez-Muñoz, Alessandra Riva, Janis Cole, David Berry, Carla M. Prado, and Jens Walter.
+
+## 2. Human skin, Soil, and Animal Microbiome - Disturbance in Ecology
+
+### [2.1 LB736 Wearing N95 masks does not disrupt the facial skin microbiome - Journal of Investigative Dermatology, 2021 ( IF : 8.55 ) ](https://www.jidonline.org/article/S0022-202X(21)01523-2/fulltext)
+G. Hillebrand, P. Dimitriu, K. Nguyen, K. Malik, W. Mohn, and R. Kong
+
+
+
 
 
 
