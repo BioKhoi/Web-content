@@ -30,7 +30,7 @@ G. Hillebrand, P. Dimitriu, **K. Nguyen**, K. Malik, W. Mohn, and R. Kong.
 -    [Soil Microbiome](https://biokhoi.github.io/2Contact.md) - <br> _**Manuscript is in preparation.**_ <br>
 Kirin, Akshit Puri, **Nguyen K Nguyen**, [...]
 <br /> <br />
--    [Evolution of the gut microbiome in river and cave-adapted Astyanax mexicanus](https://biokhoi.github.io/2Contact.md) <br>  _**Manuscript is in preparation.**_ <br>
+-    [Evolution of the gut microbiome in river and cave-adapted *Astyanax mexicanus*](https://biokhoi.github.io/2Contact.md) <br>  _**Manuscript is in preparation.**_ <br>
 Misty Riddle, **Nguyen K Nguyen**, Clifford Tabin
 <br /> <br />
 -    [Ivermectin - Microbiome](https://biokhoi.github.io/2Contact.md) <br>  _**Manuscript is in preparation.**_
