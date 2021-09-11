@@ -41,7 +41,7 @@ Benjamin Seethaler#, **Nguyen K. Nguyen #**, Maryam Basrai, Marion Kiechle, Jens
 ## 2. Human skin, Soil, and Animal Microbiome - Disturbance in Ecology
 
 ### [2.1  LB736 Wearing N95 masks does not disrupt the facial skin microbiome - *Journal of Investigative Dermatology, 2021 ( IF : 8.55 )* ](https://www.jidonline.org/article/S0022-202X(21)01523-2/fulltext)
-  G. Hillebrand, P. Dimitriu, K. Nguyen, K. Malik, W. Mohn, and R. Kong.
+  G. Hillebrand, P. Dimitriu, **K. Nguyen**, K. Malik, W. Mohn, and R. Kong.
 
 
 
