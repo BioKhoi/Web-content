@@ -28,11 +28,11 @@ Edward C. Deehan, Zhengxiao Zhang, **Nguyen K. Nguyen**, [...], Jens Walter.
 G. Hillebrand, P. Dimitriu, **K. Nguyen**, K. Malik, W. Mohn, and R. Kong.
 <br /> <br />
 
-7. Soil Microbiome  - *Manuscript is in preparation.*
-
+7.    [Soil Microbiome](https://biokhoi.github.io) - <br> **Manuscript is in preparation.** <br>
+Kirin, Akshit Puri, **Nguyen K Nguyen**, [...]
 <br /> <br />
-2.3 Soil Microbiome  - *Manuscript is in preparation.*
-Microbiome of wild and laboratory Astyanax mexicanus 
+8.    [Microbiome of wild and laboratory Astyanax mexicanus   - *Manuscript is in preparation.*
+
 
 
 **3.  Gut-Brain axis**
