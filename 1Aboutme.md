@@ -1,7 +1,7 @@
 ---
-title: Skill & Experience
+title: About me
 layout: template
-filename: 1Skill_Exp
+filename: 1Aboutme
 --- 
 
 
