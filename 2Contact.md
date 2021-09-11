@@ -4,7 +4,7 @@ layout: template
 filename: 2Contact
 --- 
 
-# I.  Publication and Manuscripts (total 12) in FOUR research areas 
+# Publication and Manuscripts (total 12) in FOUR research areas 
 
 ## Dietary Interventions - Human gut microbiome
 
@@ -54,8 +54,8 @@ Misty Riddle, **Nguyen K Nguyen**, [...]
 **Nguyen Khoi Nguyen**, Ngan Thi Ngoc Dong, Huong Thuy Nguyen, Phu Hong Le
 <br /> <br />
 
-# II. TOTAL CITATIONS (207) H-index 4 
-### For the most updated information please visit [Khoi Nguyen Nguyen's google scholar page](https://scholar.google.com.vn/citations?view_op=list_works&hl=vi&hl=vi&user=7Xrudt0AAAAJ)
+# TOTAL CITATIONS (207) H-index 4 
+## For the most updated citation and h-index please visit [Khoi Nguyen Nguyen's google scholar page](https://scholar.google.com.vn/citations?view_op=list_works&hl=vi&hl=vi&user=7Xrudt0AAAAJ)
 
 
 
