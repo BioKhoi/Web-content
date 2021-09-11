@@ -14,32 +14,24 @@ filename: 2Contact
 2.    [Precision microbiome modulation with discrete diatary fiber structures directs short-chain fatty acid production ](https://www.cell.com/cell-host-microbe/fulltext/S1931-3128(20)30045-7?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS1931312820300457%3Fshowall%3Dtrue) - <br>  **Cell Host & Microbe, 2020 ( IF: 21 )** <br>
 Edward C Deehan, Chen Yang, Maria Elisa Perez-Muñoz, **Nguyen K Nguyen**, [...] Jens Walter.
 <br /> <br /> 
-
-3.   [Short-chain fatty acids are key mediators for favorable effects of the Mediterranean diet on intestinal barrier integrity](https://biokhoi.github.io) - <br> **Manuscript was submitted to Nature Medicine** <br> 
+3.   [Short-chain fatty acids are key mediators for favorable effects of the Mediterranean diet on intestinal barrier integrity](https://biokhoi.github.io) -  **Manuscript was submitted to Nature Medicine.** <br> 
 Benjamin Seethaler#, **Nguyen K. Nguyen #**, [...], Jens Walter, Nathalie M. Delzenne, Stephan C. Bischoff.
-
 <br /> <br />
-
- 1.4   Elucidating the role of the gut microbiota in the physiological effects of dietary fiber - *Manuscript was submitted.*
+4.   [Elucidating the role of the gut microbiota in the physiological effects of dietary fiber](https://biokhoi.github.io) - **Manuscript was submitted to Microbiome.** <br> 
 Edward C. Deehan; Zhengxiao Zhang; Alessandra Riva; Anissa M. Armet; Maria Elisa Perez-Muñoz; **Nguyen K. Nguyen**; [...] Dan Knights; Catherine J. Field; David Berry; Carla M. Prado; Jens Walter.
-
 <br /> <br />
-
-1.5   Randomised clinical trial: Gastrointestinal tolerance to high doses of arabinoxylan is dependent on the level of *Bifidobacterium longum* within the gut microbiota - *Manuscript is in preparation.*
+5.   [Randomised clinical trial: Gastrointestinal tolerance to high doses of arabinoxylan is dependent on the level of *Bifidobacterium longum* within the gut microbiota](https://biokhoi.github.io) - **Manuscript is in preparation.** <br> 
 Edward C. Deehan, Zhengxiao Zhang, **Nguyen K. Nguyen**, [...], Jens Walter.
-
+<br /> <br />
+## Human skin, Soil, and Animal Microbiome - Disturbance in Ecology
+6.   [LB736 Wearing N95 masks does not disrupt the facial skin microbiome](https://www.jidonline.org/article/S0022-202X(21)01523-2/fulltext) - **Journal of Investigative Dermatology, 2021 ( IF : 8.55)** <br> 
+G. Hillebrand, P. Dimitriu, **K. Nguyen**, K. Malik, W. Mohn, and R. Kong.
 <br /> <br />
 
-## 2. Human skin, Soil, and Animal Microbiome - Disturbance in Ecology
- [2.1  LB736 Wearing N95 masks does not disrupt the facial skin microbiome - *Journal of Investigative Dermatology, 2021 ( IF : 8.55 )* ](https://www.jidonline.org/article/S0022-202X(21)01523-2/fulltext)
-  G. Hillebrand, P. Dimitriu, **K. Nguyen**, K. Malik, W. Mohn, and R. Kong.
+7. Soil Microbiome  - *Manuscript is in preparation.*
 
 <br /> <br />
-
-#### 2.2 Soil Microbiome  - *Manuscript is in preparation.*
-
-<br /> <br />
-#### 2.3 Soil Microbiome  - *Manuscript is in preparation.*
+2.3 Soil Microbiome  - *Manuscript is in preparation.*
 Microbiome of wild and laboratory Astyanax mexicanus 
 
 
